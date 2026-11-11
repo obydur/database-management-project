@@ -55,6 +55,5 @@ Through this academic project, I explored:
 
 [View Database Management Project](https://github.com/obydur/Database-management-iukl)
 
----
 
 *This project is part of my academic and technical portfolio.*
